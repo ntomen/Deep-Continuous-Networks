@@ -1,0 +1,13 @@
+*.egg-info/
+.installed.cfg
+*.egg
+*__pycache__*
+
+srf/old/
+srf/__pycache__
+torchdiffeq/__pycache__
+experiments/Old*
+
+*.swp
+*.swo
+
